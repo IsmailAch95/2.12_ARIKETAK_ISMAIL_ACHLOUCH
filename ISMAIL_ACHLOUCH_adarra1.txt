@@ -1,2 +1,6 @@
 Lehen lerroa
+<<<<<<< HEAD
 Main-eko lerroa
+=======
+Bigarren lerroa adarrean
+>>>>>>> ISMAIL_ACHLOUCH_adarra
